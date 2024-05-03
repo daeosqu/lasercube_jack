@@ -1,3 +1,15 @@
+laserdock_jack
+==============
+
+laserdock_jack - LaserDock USB and JACK Host Application for Windows.
+
+This was forked from [lasershark_hostapp](https://github.com/macpod/lasershark_hostapp).
+
+Install
+-------
+
+To build and install, see [README-windows.md](./README-windows.md)
+
 lasershark_hostapp
 ===================
 
